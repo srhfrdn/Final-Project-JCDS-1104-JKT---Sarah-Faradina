@@ -1,7 +1,6 @@
 # **Final-Project-Airline-Passenger-Satisfaction - Prediction**
 Exploratory Data Analysis, Machine Learning Modeling, and Local Dashboard Deployment of the machine learning model. data could be found from [here](https://www.kaggle.com/johndddddd/customer-satisfaction) .
 
-![Corr](/Images/Corr.png)
 
 ## **About The Project:** 
 
@@ -65,19 +64,23 @@ Dataset for this project was taken from Kaggle [US Airline Passenger](https://ww
 
 - **Predict**
 
-![Predict](/Images/Dataset.png)
+![Predict](/Dashboard/resultdash/2_predict.png)
 
 - **Result**
 
-![Result](/Images/Visualization.png)
+![Result](/Dashboard/resultdash/3_result.png)
 
 - **Visualization**
-
-![Visualization](/Images/Prediction.png)
-
+  - visual 1
+![Visualization1](/Dashboard/resultdash/4a_visual.png)
+  - visual 2
+![Visualization2](/Dashboard/resultdash/4b_visual.png)
+  - visual 3
+![Visualization3](/Dashboard/resultdash/4c_visual.png)
+  
 - **Author**
 
-![Author](/Images/Result.png)
+![Author](/Dashboard/resultdash/5_author.png)
 
 ## **Thank you for reading.**
 
