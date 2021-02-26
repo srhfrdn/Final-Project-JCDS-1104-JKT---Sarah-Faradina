@@ -1,14 +1,12 @@
 # **Final Project - Airline Passenger Satisfaction**
 
-![Airplane](/Visualization/airplane_gif.gif)
-
-
 ## **About The Project:** 
 
 Predicting Airline Passenger Satisfaction Project is a machine learning classification project that will try to predict whether the future passengers would be satisfied or neutral/dissatisfied with service using machine learning based on historical data.
 
 Dataset for this project was taken from Kaggle [US Airline Passenger](https://www.kaggle.com/johndddddd/customer-satisfaction). The data shows whether a passenger is satisfied with the airlines or not after travelling with them. There are several other measurement or to say feedback taken from the customers as well as their demographic data is also recorded.
 
+![Airplane](/Visualization/airplane_gif.gif)
 
 ## **Goals:**
 
