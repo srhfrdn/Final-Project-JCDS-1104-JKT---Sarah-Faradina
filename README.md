@@ -54,9 +54,11 @@ Dataset for this project was taken from Kaggle [US Airline Passenger](https://ww
 
     Based on Recall Score, the best model is Decision Tree Classifier After Tuned.
 
-### **Conclusion**
+## **Conclusion:**
 
-### **Dashboard Building Using Flask**
+
+## **Dashboard Building Using Flask:**
+
 - **Home**
 
 ![Home](/Images/Home.png)
