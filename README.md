@@ -58,7 +58,7 @@ Dataset for this project was taken from Kaggle [US Airline Passenger](https://ww
   - Service before flight : Ease of Online booking and Online boarding services
   - Service inflight : Food and drink
   - Facilities : Seat comfort
-There may be a problem with these services, so these should be considered and improved.
+ There may be a problem with these services, so these should be considered and improved.
 
 
 
