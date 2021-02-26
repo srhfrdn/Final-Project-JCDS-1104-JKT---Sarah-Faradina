@@ -80,10 +80,14 @@ There may be a problem with these services, so these should be considered and im
 - **Visualization**
   - visual 1
 ![Visualization1](/Dashboard/resultdash/4a_visual.png)
+
   - visual 2
 ![Visualization2](/Dashboard/resultdash/4b_visual.png)
+
   - visual 3
 ![Visualization3](/Dashboard/resultdash/4c_visual.png)
+
+  - **etc**
   
 - **Author**
 
