@@ -1,1 +1,53 @@
-# Final-Project-JCDS-1104-JKT---Sarah-Faradina
+# Final-Project-Airline-Passenger-Satisfaction - Prediction
+Exploratory Data Analysis, Machine Learning Modeling, and Local Dashboard Deployment of the machine learning model. data could be found from [here](https://www.kaggle.com/johndddddd/customer-satisfaction) .
+
+
+
+## About The Project: 
+
+Predicting Airline Passenger Satisfaction Project is a machine learning classification project that will try to predict whether the future passengers would be satisfied or neutral/dissatisfied with service using machine learning based on historical data.
+
+Dataset for this project was taken from Kaggle [US Airline Passenger](https://www.kaggle.com/johndddddd/customer-satisfaction). The data shows whether a passenger is satisfied with the airlines or not after travelling with them. There are several other measurement or to say feedback taken from the customers as well as their demographic data is also recorded.
+
+
+## Goals: 
+
+**1.** The Goals of this project is Predicts whether the future passengers would be satisfied or neutral/dissatisfied with service. 
+
+**2.** To know on which airline aspect of the services offered by them have to be emphasized more to generate more satisfied passengers.
+
+
+## Workflow:
+
+- **Data Cleaning :** 
+  - Imputing missing value with median using median instead of mean here because there are many outliers in the dataset : Arrival Delay in Minutes
+  - **Dropping columns** 
+    - ID : that don't seem contain any important information for our purpose
+    - Flight Distance :  low correlation, many outliers, and its not important based on basic knowledge
+      
+ - **Exploratory Data Analysis :** 
+    - Feature Engineering 
+    - Aggregating Columns
+    - Visualization
+    - Insight & Conclusion
+  
+ - **Machine learning process**
+    - Train Test Split
+    - Using pipeline for model building 
+      - simpleimputer for missing values
+      - scaling for numerical features
+      - one hot and ordinal encoder for categorical features
+    - Creating base model with few algorithm *(Decision Tree Classifier, K Neighbors Classifier, , Random Forest classifier)*
+    - Checking evaluation matrix
+    - Hyperparameter tuning on all algorithm
+    - checking evaluation matrix on the tuned model
+    - Export the model with the best accuracy score
+    
+ - **Dashboard Building Using Flask**
+ 
+
+  
+## Conclusion & Recommendation
+
+
+### Conclusion :
