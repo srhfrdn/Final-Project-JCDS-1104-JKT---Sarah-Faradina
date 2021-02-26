@@ -68,13 +68,10 @@ Dataset for this project was taken from Kaggle [US Airline Passenger](https://ww
 
 ![Home](/Dashboard/resultdash/1_dashboard.png)
 
-- **Predict**
+- **Prediction**
 
 ![Predict](/Dashboard/resultdash/2_predict.png)
 
-- **Result**
-
-![Result](/Dashboard/resultdash/3_result.png)
 
 - **Visualization**
   - visual 1
@@ -92,7 +89,7 @@ Dataset for this project was taken from Kaggle [US Airline Passenger](https://ww
 
 ![Author](/Dashboard/resultdash/5_author.png)
 
-## **Thank you for reading.**
+#### **Thank you for reading.**
 
 
 
