@@ -1,4 +1,4 @@
-# **Final-Project-Airline-Passenger-Satisfaction - Prediction**
+# **Final Project - Airline Passenger Satisfaction**
 Exploratory Data Analysis, Machine Learning Modeling, and Local Dashboard Deployment of the machine learning model. data could be found from [here](https://www.kaggle.com/johndddddd/customer-satisfaction) .
 
 
